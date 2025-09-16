@@ -55,7 +55,9 @@ This project deploys a **highly automated WordPress environment** on AWS using T
 
 ---
 
-## Architecture Diagram.
+## Acess of wordpress from ALb 
+<img width="940" height="505" alt="image" src="https://github.com/user-attachments/assets/66b06317-ec43-4da2-aed5-60e824b2ccbc" />
+
 
 
 
